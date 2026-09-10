@@ -664,7 +664,7 @@
         "uuid": "0381f47e-745d-4812-9357-48e0780b037a"
       }
     ],
-    "used_designators": "A1,J1-9,#FLG1-3,#XXX\\-1-2,R1-19,D1-85,#PWR1-55,Y1-3,F1-2,MX1-85,U1-6,SW1-3,FB1,C1-23",
+    "used_designators": "C1-25,FB1,SW1-3,U1-7,MX1-85,F1-2,D1-85,#PWR1-62,Y1-3,R1-19,#XXX\\-1-2,#FLG1-3,J1-9,A1",
     "variants": []
   },
   "sheets": [
@@ -675,6 +675,10 @@
     [
       "f768028a-41be-41ba-a35f-1c3e85edad27",
       "Keyboard Matrix"
+    ],
+    [
+      "5a2576bb-5793-4bf6-bdc9-8fd4dc51805c",
+      "USB Hub Daughterboard"
     ]
   ],
   "text_variables": {},
